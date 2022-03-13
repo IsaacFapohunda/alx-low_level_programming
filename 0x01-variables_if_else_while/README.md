@@ -1,1 +1,1 @@
-This program will assign a number to the variable n each time it is executed
+Write a script that prints the alphabet in lowercase, followed by a new line
