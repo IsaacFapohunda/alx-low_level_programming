@@ -1,1 +1,1 @@
-in most projects, we often give you only one main file to test with. For example, the main file is a test for a positive_or_negative() function similar to the one you worked with in an earlier C project
+Based on the main.c file above, create a file named 0-main.c. The file must test that the function positive_or_negative() gives the correct output when given a case of 0
