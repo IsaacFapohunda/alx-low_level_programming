@@ -1,1 +1,1 @@
-Write a function that swaps the value of two integers
+Write a function that returns the length of a string
