@@ -1,1 +1,1 @@
-Write a function that reverse a string
+Write a function that prints every other character
