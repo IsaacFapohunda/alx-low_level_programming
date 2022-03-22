@@ -1,1 +1,1 @@
-Write a function that prints every other character
+Write a function that copies the string pointed to by src
