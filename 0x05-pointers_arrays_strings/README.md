@@ -1,1 +1,1 @@
-Write a function that converts a string to an integer
+Write a function that prints every other character
