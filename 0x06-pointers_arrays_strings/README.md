@@ -1,1 +1,1 @@
-Add one line to this code, so the program prints
+Write a function that prints an integer
